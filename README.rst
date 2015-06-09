@@ -2,6 +2,10 @@
  API Documentation Tool
 ========================
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/alem0lars/apipie-rails
+   :target: https://gitter.im/alem0lars/apipie-rails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://travis-ci.org/Apipie/apipie-rails.png?branch=master
     :target: https://travis-ci.org/Apipie/apipie-rails
 .. image:: https://codeclimate.com/github/Apipie/apipie-rails.png
